@@ -15,7 +15,7 @@ using Android.App;
 using Android.Content;
 using Android.Graphics;
 using Android.OS;
-using Android.Support.V4.Graphics;
+using AndroidX.Core.Graphics;
 using Android.Text;
 using Android.Util;
 using Android.Views;

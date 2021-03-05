@@ -12,7 +12,7 @@ using Android.Content;
 using Android.Graphics;
 using Android.Widget;
 using Android.OS;
-using Android.Support.V7.App;
+using AndroidX.AppCompat.App;
 using Android.Views;
 using Net.ArcanaStudio.ColorPicker;
 using Java.Lang;

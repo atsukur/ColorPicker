@@ -10,7 +10,7 @@
 using System;
 using Android.Content;
 using Android.Graphics;
-using Android.Support.V4.Graphics;
+using AndroidX.Core.Graphics;
 using Android.Views;
 using Android.Widget;
 

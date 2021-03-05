@@ -13,7 +13,7 @@ using Android.Content;
 using Android.Content.Res;
 using Android.Graphics;
 using Android.OS;
-using Android.Support.V7.Preferences;
+using AndroidX.Preference;
 using Android.Util;
 using String = System.String;
 
